@@ -1,0 +1,13 @@
+Type –
+IBM Plex Mono at 40px / 1.5
+https://fonts.google.com/specimen/IBM+Plex+Mono
+
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono');
+
+Copy –
+Learn To Code Now
+Available December
+
+Colors –
+Background: #ffffff
+Text: #000000
